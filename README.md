@@ -96,3 +96,12 @@ It provides a dynamic shopping experience with strong security measures, seamles
 7.Open in browser:
 
   http://127.0.0.1:8000/
+
+
+
+
+##DEMO VIDEO
+
+
+[Click here to watch the demo](demo/GReat_cart%20demo%20video.mp4)
+
