@@ -103,5 +103,5 @@ It provides a dynamic shopping experience with strong security measures, seamles
 ##DEMO VIDEO
 
 
-[Click here to watch the demo](demo/GReat_cart%20demo%20video.mp4)
+[Click here to watch the demo](demo/GReat_cart%20demo%20video.mp4) (view Raw or download Raw video).
 
